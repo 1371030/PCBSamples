@@ -1,0 +1,22 @@
+PCBNEW-BOARD Version 1
+$GENERAL
+Units mm
+LayerCount 4
+BoardThickness 1600000
+$EndGENERAL
+$SETUP
+Layer[15] Front_Cu
+Layer[2] Inner1_Cu
+Layer[1] Inner2_Cu
+Layer[0] Back_Cu
+$EndSETUP
+$EQUIPOT
+Na 1 "GND"
+$EndEQUIPOT
+$TRACK
+Po 0 10.0 20.0 30.0 20.0 0.25
+De 15 0 1 0 0
+Po 3 30.0 20.0 30.0 20.0 0.8 0.4
+De 15 1 1 0 0
+$EndTRACK
+$EndBOARD

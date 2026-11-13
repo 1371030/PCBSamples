@@ -1,0 +1,15 @@
+PCB["Device E2E gEDA Board" 50.00mm 40.00mm]
+(
+  Via[10.00mm 10.00mm 0.80mm 0.20mm 0.00 0.40mm "GND" ""]
+  Layer(1 "Component")
+  (
+    Line[5.00mm 5.00mm 15.00mm 5.00mm 0.25mm 0.20mm ""]
+  )
+  Layer(2 "Solder")
+  (
+    Line[5.00mm 10.00mm 15.00mm 10.00mm 0.50mm 0.20mm ""]
+  )
+  Layer(3 "GND") ()
+  Layer(4 "PWR") ()
+  Layer(5 "outline") ()
+)
