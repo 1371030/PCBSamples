@@ -19,9 +19,5 @@
   {"name":"kicad_stickhub.kicad_pcb","url":"kicad_stickhub.kicad_pcb"},
   {"name":"pads_demo.asc","url":"pads_demo.asc"},
   {"name":"pads_demo.pcb","url":"pads_demo.pcb"},
-  {"name":"pads_importer.asc","url":"pads_importer.asc"},
-  {"name":"testing.kicad_pcb","url":"testing.kicad_pcb"},
-  {"name":"testing_kicad6.0.kicad_pcb","url":"testing_kicad6.0.kicad_pcb"},
-  {"name":"testing_kicad7.0.11.kicad_pcb","url":"testing_kicad7.0.11.kicad_pcb"},
-  {"name":"testing_kicad8.kicad_pcb","url":"testing_kicad8.kicad_pcb"}
+  {"name":"pads_importer.asc","url":"pads_importer.asc"}
 ]
